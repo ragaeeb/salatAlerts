@@ -1,0 +1,16 @@
+MIDlet-Name: salatAlerts
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Research in Motion Ltd.
+MIDlet-Jar-URL: salatAlerts.jar
+MIDlet-Jar-Size: 32338
+MIDlet-Description: X
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Manifest-Version: 1.0
+RIM-COD-URL: salatAlerts.cod
+RIM-COD-Size: 14544
+RIM-COD-Creation-Time: 1284135637
+RIM-COD-Module-Name: salatAlerts
+RIM-COD-Module-Dependencies: net_rim_cldc,subscriptionService
+RIM-COD-SHA1: aa dc 35 7b 08 6a b2 88 77 0d aa d3 eb 95 ad b5 69 1c 8b cf
+RIM-Library-Flags: 2
